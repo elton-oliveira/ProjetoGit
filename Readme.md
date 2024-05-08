@@ -8,3 +8,4 @@ git remote add origin https://github.com/elton-oliveira/ProjetoGit.git
     add --> adicionando remoto
     origin --> apelido dado ao repositorio remoto
     link do repositorio
+git push -u origin main // enviando pro repositorio github
